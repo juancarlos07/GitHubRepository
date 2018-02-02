@@ -6,6 +6,7 @@
     <?php
       phpinfo();
         echo "Hola";
+        echo "Hola2";
     ?>
     
     </body>
